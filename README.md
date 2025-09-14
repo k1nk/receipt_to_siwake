@@ -26,9 +26,9 @@
 4. スキャンした経費の領収書を１つのフォルダにまとめます。
 
 5. プログラム（make_siwake3.py）を実行します。
-        ```
-        python make_siwake3.py
-        ```
+    ```
+    python make_siwake3.py
+    ```
     ※Windows環境の場合、distフォルダ内のmake_siwake3.exeダブルクリックして実行することもできます。
 
 6. ４で作成したフォルダを選択します。
