@@ -4,13 +4,13 @@
 
 # 使い方
 1. 環境の準備
-    実行するPCの環境変数として、GOOGLE_CLOUD_PROJECT_IDを作成し、その値に、google cloud platformのプロジェクトIDを設定してください。
+    * 実行するPCの環境変数として、GOOGLE_CLOUD_PROJECT_IDを作成し、その値に、google cloud platformのプロジェクトIDを設定してください。
      詳細は、[「Vertex AI のAPIを使うための下準備」](https://note.com/kenichi_nakatani/n/n91035c588ecd)をご覧ください。
 
-    Google Gen AI SDKをインストールしてください。
-```
-pip install -U -q "google-genai"
-```
+    * Google Gen AI SDKをインストールしてください。
+    ```
+    pip install -U -q "google-genai"
+    ```
 
 2. 入力対象年度の会計ファイル等の準備
     ＜弥生会計＞
