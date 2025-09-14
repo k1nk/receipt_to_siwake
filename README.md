@@ -8,9 +8,9 @@
      詳細は、[「Vertex AI のAPIを使うための下準備」](https://note.com/kenichi_nakatani/n/n91035c588ecd)をご覧ください。
 
     * Google Gen AI SDKをインストールしてください。
-    ```
-    pip install -U -q "google-genai"
-    ```
+        ```
+        pip install -U -q "google-genai"
+        ```
 
 2. 入力対象年度の会計ファイル等の準備
     ＜弥生会計＞
